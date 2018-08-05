@@ -1,0 +1,15 @@
+{
+    "name": "cloudmersive/app",
+    "description": "Demo app",
+    "type": "project",
+    "require": {
+        "cloudmersive/barcode_api_client": "^1.3"
+    },
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Cloudmersive",
+            "email": "support@cloudmersive.com"
+        }
+    ]
+}
